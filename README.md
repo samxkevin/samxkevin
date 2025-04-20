@@ -1,17 +1,18 @@
-👋 Hi, I’m @samxkevin
+Greetings. I’m @samxkevin.
 
-👀 Tech enthusiast and competitive programmer from KMCE, part of the TechTattva Club, actively involved in initiatives like CPatKMCE and Code Legends. Passionate about IoT, AI, and building sustainable solutions.
+Engineering student at KMCE, contributing to TechTattva initiatives like CPatKMCE and Technovate. Pursuing applied machine learning. Focused on IoT, AI, and purposeful systems.
 
-🌱 I’m currently learning and growing through platforms like freeCodeCamp and ZeroToHero, always exploring new ways to innovate.
+Always in a constant pursuit of innovation and mastery.
 
-💞️ I’m looking to collaborate on Android and Web Development, as well as AI-related projects.
+Open to collaborations in Android Development, Web Development, Embedded Development and AI-centric projects.
 
-📫 How to reach me: [email:anumulasamarth008@gmail.com]
+Contact: anumulasamarth008@gmail.com
+Pronouns: He/Him
 
-😄 Pronouns: He/Him
+"Guided by the One who spoke on the chariot and plays the flute beyond time."
 
-⚡ Fun fact: Life could be Dreams...
-<!---
-samxkevin/samxkevin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Note: Life, at times, resembles a waking dream.
+
+/samxkevin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
