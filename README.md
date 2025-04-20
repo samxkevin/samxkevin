@@ -7,6 +7,7 @@ Always in a constant pursuit of innovation and mastery.
 Open to collaborations in Android Development, Web Development, Embedded Development and AI-centric projects.
 
 Contact: anumulasamarth008@gmail.com
+
 Pronouns: He/Him
 
 "Guided by the One who spoke on the chariot and plays the flute beyond time."
