@@ -10,10 +10,6 @@ Contact: anumulasamarth008@gmail.com
 
 Pronouns: He/Him
 
-"Guided by the One who spoke on the chariot and plays the flute beyond time."
+𝐈𝐧 𝐬𝐞𝐫𝐯𝐢𝐜𝐞 𝐭𝐨 𝐦𝐲 𝐌𝐚𝐬𝐭𝐞𝐫, 𝐰𝐡𝐨𝐬𝐞 𝐠𝐮𝐢𝐝𝐚𝐧𝐜𝐞 𝐫𝐞𝐯𝐞𝐚𝐥𝐬 𝐭𝐡𝐞 𝐩𝐫𝐢𝐧𝐜𝐢𝐩𝐥𝐞𝐬.
 
 Note: Life, at times, resembles a waking dream.
-
-/samxkevin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
