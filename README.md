@@ -1,6 +1,6 @@
 Greetings. I’m @samxkevin.
 
-Engineering student at KMCE, contributing to TechTattva initiatives like CPatKMCE and Technovate. Pursuing applied machine learning. Focused on IoT, AI, and purposeful systems.
+Engineering student at KMCE. Pursuing applied machine learning. Focused on IoT, AI, and purposeful systems.
 
 Always in a constant pursuit of innovation and mastery.
 
