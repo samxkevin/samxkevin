@@ -1,115 +1,67 @@
 # Samarth Anumula
 
-**Software Engineer • Machine Learning Engineer • AI Engineer**
+**Computer Science engineering student building AI, machine learning, data, and full-stack systems.**
 
-I build end-to-end systems across **Generative AI, machine learning, computer vision, data engineering, and full-stack development**. I enjoy taking a problem from idea to a working system, connecting models and data with the APIs, backend services, interfaces, and validation needed to make the whole workflow useful.
+I turn model experiments into end-to-end software: data pipelines, APIs, backends, interfaces, databases, validation, deployment, and automation. My current work centers on **AI Engineering · Machine Learning · Generative AI · Full-Stack Engineering · Data Engineering**.
 
-Currently pursuing a **Bachelor of Engineering in Computer Science Engineering at KMTES**, with a strong focus on applied AI and software engineering.
+Currently pursuing a **Bachelor of Engineering in Computer Science Engineering at KMTES**, with a focus on applied AI and software engineering.
 
 [GitHub](https://github.com/samxkevin) · [LeetCode](https://leetcode.com/samxkevin) · [Email](mailto:anumulasamarth008@gmail.com)
 
----
+## Featured projects
 
-## Featured Work
+### [RAGnosis](https://github.com/samxkevin/RAGnosis) · [Live app](https://ragnosis-nwst.onrender.com/)
+A graph-based medical assistant that retrieves context from Neo4j before generation and supports stateful, multi-turn voice interaction. It connects Cohere, Whisper ASR, voice activity detection, backend services, and a Node.js interface into one conversational workflow.
 
-### [RAGnosis](https://github.com/samxkevin/RAGnosis)
-**Graph-based RAG medical assistant with voice interaction**
+`RAG` `Neo4j` `Cohere` `Whisper` `Voice AI` `Node.js`
 
-A multimodal conversational system combining a **Neo4j knowledge graph, Retrieval-Augmented Generation, Cohere LLMs, Whisper ASR, voice activity detection, and a Node.js interface**. The system retrieves structured medical context before generation and supports stateful multi-turn voice interaction.
+### [SceneSolver](https://github.com/samxkevin/SceneSolver) · [Live demo](https://huggingface.co/spaces/samxkevin/SceneSolver)
+A multimodal video-analysis pipeline combining autoencoder anomaly detection, TimeSformer activity recognition, YOLOv8 detection, LLaVA reasoning, audio, automated forensic reports, and Telegram, Discord, and email alerts. It also explores voice-based incident escalation.
 
-**Focus:** RAG · LLMs · knowledge graphs · voice AI · backend integration
+`PyTorch` `TimeSformer` `YOLOv8` `LLaVA` `Computer Vision` `Multimodal AI`
 
-[Live application](https://ragnosis-nwst.onrender.com/)
+### [GraphOneSlice](https://github.com/samxkevin/GraphOneSlice) · [Live reviewer](https://graphoneslice-reviewer.vercel.app/)
+An evidence-driven Python pipeline for multi-source discovery, extraction, cleaning, normalization, deduplication, entity resolution, classification, and relationship mapping. Deterministic validation and source provenance keep mapping decisions reviewable.
 
-### [SceneSolver](https://github.com/samxkevin/SceneSolver)
-**Multimodal video intelligence and forensic analysis platform**
-
-An end-to-end computer vision and multimodal AI workflow combining **Autoencoder anomaly detection, TimeSformer video classification, YOLOv8 detection, LLaVA scene reasoning, audio integration, automated reporting, and multi-channel alerts**. Includes an experimental voice-based incident escalation layer.
-
-**Focus:** PyTorch · Transformers · computer vision · multimodal AI · AI agents · full-stack systems
-
-[Live application](https://huggingface.co/spaces/samxkevin/SceneSolver)
-
-### [GraphOneSlice](https://github.com/samxkevin/GraphOneSlice)
-**Multi-source AI ecosystem data ingestion and relationship mapping**
-
-A Python data pipeline covering **discovery, extraction, cleaning, normalization, deduplication, classification, entity resolution, relationship mapping, and validation**. Designed around traceable source evidence and deterministic mapping decisions.
-
-**Focus:** Python · API ingestion · data pipelines · entity resolution · validation · structured data
-
-[Live reviewer](https://graphoneslice-reviewer.vercel.app/)
+`Python` `API Ingestion` `Data Pipelines` `Entity Resolution` `Validation` `Provenance`
 
 ### [FaceID-Blockchain-Verification](https://github.com/samxkevin/FaceID-Blockchain-Verification)
-**Face identification, live reverse search, and tamper-evident verification**
+A pipeline for face detection and encoding, live reverse-image search through external APIs, and social-media evidence selection. It creates deterministic verification records and anchors their SHA-256 fingerprints on Ethereum Sepolia for independent integrity checks and tamper detection; it does not claim to prove real-world identity or account ownership.
 
-An end-to-end pipeline that detects and encodes a face, performs a **live reverse-image search through external search APIs**, selects social evidence, creates a deterministic verification record, and commits its fingerprint to **Ethereum Sepolia** for independent verification and tamper detection.
+`Python` `Computer Vision` `External APIs` `SHA-256` `Web3.py` `Solidity`
 
-**Focus:** Python · API integration · computer vision · validation · Web3.py · Solidity · Ethereum
+## Technical skills
 
----
+| Area | Technologies |
+|---|---|
+| **Languages** | Python, C++, Java, JavaScript |
+| **AI / ML** | PyTorch, TensorFlow, Hugging Face Transformers, Scikit-learn, LoRA, transfer learning, reinforcement learning |
+| **Generative AI** | LLMs, RAG, embeddings, knowledge graphs, LLaVA, Cohere, prompt engineering, agentic workflows, ASR / TTS |
+| **Computer vision** | OpenCV, YOLOv8, TimeSformer, Vision Transformers, CLIP, video understanding, anomaly detection |
+| **Backend / full stack** | React, Node.js, Express, FastAPI, Flask, REST APIs, MERN |
+| **Data / databases** | SQL, PostgreSQL, MongoDB, Neo4j, ingestion, normalization, entity resolution, validation |
+| **Engineering / platforms** | Git, Linux, Docker, Google Colab, Hugging Face Spaces, cloud deployment |
+| **Blockchain** | Solidity, Web3.py, Ethereum, smart contracts, on-chain verification |
 
-## What I Work With
-
-**Languages**  
-Python · C++ · Java · JavaScript
-
-**AI / ML**  
-PyTorch · TensorFlow · Hugging Face Transformers · Scikit-learn · LoRA · Transfer Learning · Reinforcement Learning
-
-**Generative AI**  
-LLMs · RAG · embeddings · knowledge graphs · LLaVA · Cohere · prompt engineering · agentic workflows · ASR / TTS
-
-**Computer Vision**  
-OpenCV · YOLOv8 · TimeSformer · Vision Transformers · CLIP · video understanding · anomaly detection
-
-**Backend / Full Stack**  
-React · Node.js · Express · FastAPI · Flask · REST APIs · MERN
-
-**Data / Databases**  
-SQL · PostgreSQL · MongoDB · Neo4j · data ingestion · normalization · entity resolution · validation
-
-**Engineering / Platforms**  
-Git · Linux · Docker · Google Colab · Hugging Face Spaces · cloud deployment
-
-**Blockchain**  
-Solidity · Web3.py · Ethereum · smart contracts · on-chain verification
-
----
-
-## How I Build
-
-I like systems where every stage has a clear purpose:
+## How I build
 
 **Input → Processing → Model / Reasoning → Validation → Decision → Output**
 
-That approach shows up across my work, from multimodal AI pipelines and RAG systems to data ingestion, API integrations, embedded systems, and blockchain-backed verification.
+I design beyond the model boundary. Each stage should have a clear contract, outputs should be traceable to inputs, and uncertain model behavior should be surrounded by deterministic checks where possible. That pattern runs through my retrieval systems, multimodal pipelines, data workflows, API integrations, and verification tools.
 
----
+## Additional work
 
-## More Work
+- **[ProjectBMS](https://github.com/samxkevin/ProjectBMS)** — autonomous borewell management using ESP32/ESP8266 devices, IoT sensors, wireless communication, and embedded automation
+- **[TensorTonic-Solutions](https://github.com/samxkevin/TensorTonic-Solutions)** — machine learning problem solutions and practice
+- **[KMCE-DL](https://github.com/samxkevin/KMCE-DL)** — materials and implementations from deep learning sessions
+- **[KMCE-EL](https://github.com/samxkevin/KMCE-EL)** — embedded learning session materials
 
-- [ProjectBMS](https://github.com/samxkevin/ProjectBMS) · ESP32 / ESP8266 IoT-based automated borewell management system
-- [TensorTonic-Solutions](https://github.com/samxkevin/TensorTonic-Solutions) · Machine learning and deep learning practice
-- [KMCE-DL](https://github.com/samxkevin/KMCE-DL) · Deep learning coursework and implementations
-- [KMCE-EL](https://github.com/samxkevin/KMCE-EL) · Embedded systems and electronics work
+## Leadership and hackathons
 
----
+- **Lead, TechTattva** — organized AI/ML sessions with industry practitioners and technical workshops
+- **Founder, CPatKMCE** — built a competitive programming community focused on algorithms and problem solving
+- **Hackathons** — semi-finalist at the ET Gen AI Hackathon; Agentathon 2025 participant; organizer and participant in college technical events
 
-## Beyond Code
+## Current focus
 
-**Lead, TechTattva**  
-Organized AI/ML sessions with industry practitioners and technical workshops.
-
-**Founder, CPatKMCE**  
-Built a competitive programming community focused on algorithms and problem solving.
-
-**Hackathons**  
-Semi-finalist, ET Gen AI Hackathon · Participant, Agentathon 2025 · Organizer and participant across college technical events.
-
----
-
-## Currently
-
-Exploring **Generative AI, AI agents, multimodal systems, data engineering, and production-oriented software development** while continuing to strengthen core computer science fundamentals.
-
-> Build systems that work end to end, understand why they work, and make them easier to verify.
+Building stronger **retrieval, multimodal, and agentic AI systems** while deepening data engineering, deployment, and core software engineering fundamentals.
